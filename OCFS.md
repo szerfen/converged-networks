@@ -50,9 +50,9 @@ Do poprawnego działania w przyapdku awarii warto dodać  wcześniej skonfigurow
 
 #### Żródła:
 
-- oss.oracle.com/projects/ocfs2/
-- www.oracle.com/us/technologies/linux/025995.htm
-- lwn.net/Articles/137278/
-- www.slideshare.net/gpaterno1/filesystem-comparison-nfs-gfs2-ocfs2
+- https://oss.oracle.com/projects/ocfs2/
+- http://www.oracle.com/us/technologies/linux/025995.htm
+- https://lwn.net/Articles/137278/
+- https://www.slideshare.net/gpaterno1/filesystem-comparison-nfs-gfs2-ocfs2
 - www.lazysystemadmin.com/2011/09/ocfs2-cluster-file-system-setup-guide.html
 - www.linux-mag.com/id/6070/
